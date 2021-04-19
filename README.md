@@ -1,8 +1,12 @@
-# todo
-Very basic js TODO project.
+**About**
 
-Not used JQuery
+------------
 
-Not used SQL
 
-All Data stored in Local storage
+Very basic js ToDo project.
+
+- Not used JQuery
+
+- Not used SQL
+
+- All Data stored in Local storage
